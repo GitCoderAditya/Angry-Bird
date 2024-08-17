@@ -38,4 +38,4 @@ To run this game locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/angry-birds-game.git
+   git clone https://github.com/GitCoderAditya/Angry-Bird.git
